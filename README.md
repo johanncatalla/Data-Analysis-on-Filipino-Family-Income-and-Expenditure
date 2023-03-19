@@ -24,5 +24,22 @@ Results:
 4. In the second scatter plot, I plotted the Total Household Income as x and Ratio of Food Expenditure to Income as y. It can be observed that it has a negative linear correlation (indicated by the lower-inclined pattern) which means that as Income Increases, the Ratio of Food Expenditutre to Income decreases. This tells us higher-income houseolds spend a lower percentage of their income for food. 
 5. In the first bar graph, it can be observed that Wage/Salaries is the main source of income Filipino Households while Entrepreneurial Activities being the lowest. It is evident in the second bar graph that Wage/Salaries are the main sources of income per region, except in ARMM. The next bar graph will show the proportions of each source of income.
 6. The Following Conclusions can be made: 
-    1. ARMM is the only region with Entrepreneurial Activities being the Main Source of Income (0.78 or 78%); NCR has the highest ratio of Wage/Salaries as main source of income (0.68 or 68%); NCR has the lowest ratio on Entrepreneurial Activities (0.125 or 12.5%); All regions except ARMM has Wage/Salaries as their Main Source of Income.
-8. The following conclusions can be made: 
+    1. ARMM is the only region with Entrepreneurial Activities being the Main Source of Income (0.78 or 78%). 
+    2. NCR has the highest ratio of Wage/Salaries as main source of income (0.68 or 68%)
+    3. NCR has the lowest ratio on Entrepreneurial Activities (0.125 or 12.5%)
+    4. All regions except ARMM has Wage/Salaries as their Main Source of Income.
+7. The following conclusions can be made: 
+    1. NCR has the highest housing and water, house rental, transportation, clothing and footwear, communication, education, restaurant and hotels, and miscellaneous goods and services expenditures.
+    2. NCR has the lowest crop farming/gardening expenses. 
+    3. ARMM holds the highest crop farming/gardening expenses and lowest expenditure for the rest of the categories. 
+    4. Cagayan Valley and Cordillera Administrative Region (CAR) has the second and third highest expenditure on crop farming/gardening respectively.
+    5. CALABARZON holds the highest expenditure for special occasions and medical care. 
+    6. NCR has the highest overall expenditure for other expenses.
+8. It can be observed that across the regions and the country, the majority of household head sex is male. 
+9. It can be observed that the bar graph ranging from ages 9-99 forms a bell curve.
+10. The meand age is 51.381450991719625
+11. It can be concluded that ARMM has the highest Total Income from Entrepreneurial Activities while Bicol Region has the lowest. 
+12. The heatmap plots the correlation between the variables of Expenses together with the Total Household Income and Food Percentage to Income. It can be observed that Ratio of Food Expenditure to Income and Total Household Income has a moderately strong negative correlation (0.44), which confirmed our findings earlier. Furthermore, Total Food Expenditure and Total Household Income has a strong positive correlation (0.66) which also confirmed our findings. The following conclusions can be made:
+    1. Total Household Income has a significant effect to Total Food Expenditure. Higher-income household are more likely to spend more on food.
+    2. Total Household Income has a significant effect to Ratio of Food Expenditure to Income. Higher-income households are more likely to have a lower percentage of their income allotted for food expenditures. Similarly, lower-income households are more likely to allot a higher percentage of their income for food expenditures.
+    3. Total Household Income has a significant effect to Other Expenses. Higher-income households are more likely to spend more on expenses other than food.  
