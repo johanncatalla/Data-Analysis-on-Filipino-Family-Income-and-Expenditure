@@ -48,7 +48,7 @@ Results:
 8. It can be observed that across the regions and the country, the majority of household head sex is male. 
 ![head sex per region](https://github.com/johanncatalla/Data-Analysis-on-Filipino-Family-Income-and-Expenditure/blob/main/images/8.1.png)
 ![head sex PH](https://github.com/johanncatalla/Data-Analysis-on-Filipino-Family-Income-and-Expenditure/blob/main/images/8.2.png)
-9. It can be observed that the bar graph ranging from ages 9-99 forms a bell curve, with a mean age of 51.
+9. It can be observed that the bar graph ranging from ages 9-99 forms a bell curve with a mean age of 51.
 ![head age PH](https://github.com/johanncatalla/Data-Analysis-on-Filipino-Family-Income-and-Expenditure/blob/main/images/9.png)
 10. The mean age is 51.381450991719625
 11. It can be concluded that ARMM has the highest Total Income from Entrepreneurial Activities while Bicol Region has the lowest. 
