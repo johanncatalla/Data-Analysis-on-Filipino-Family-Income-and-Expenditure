@@ -25,6 +25,7 @@ Results:
 3. We can observe the first scatter plot of Total Household Income and Total Food Expenditure to find the correlation. It can be seen that the two variables has a positive linear correlation (indicated by the upper-inclined pattern) which means that as income increases, Food Expenditure also increases.
 
 ![scatter income expenditure](https://github.com/johanncatalla/Data-Analysis-on-Filipino-Family-Income-and-Expenditure/blob/main/images/3.png)
+
 4. In the second scatter plot, I plotted the Total Household Income as x and Ratio of Food Expenditure to Income as y. It can be observed that it has a negative linear correlation (indicated by the lower-inclined pattern) which means that as Income Increases, the Ratio of Food Expenditutre to Income decreases. This tells us higher-income houseolds spend a lower percentage of their income for food. 
 ![scatter income ratio](https://github.com/johanncatalla/Data-Analysis-on-Filipino-Family-Income-and-Expenditure/blob/main/images/4.png)
 5. In the first bar graph, it can be observed that Wage/Salaries is the main source of income Filipino Households while Entrepreneurial Activities being the lowest. It is evident in the second bar graph that Wage/Salaries are the main sources of income per region, except in ARMM. The next bar graph will show the proportions of each source of income.
