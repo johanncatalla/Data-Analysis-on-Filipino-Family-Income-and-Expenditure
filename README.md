@@ -48,9 +48,9 @@ Results:
 8. It can be observed that across the regions and the country, the majority of household head sex is male. 
 ![head sex per region](https://github.com/johanncatalla/Data-Analysis-on-Filipino-Family-Income-and-Expenditure/blob/main/images/8.1.png)
 ![head sex PH](https://github.com/johanncatalla/Data-Analysis-on-Filipino-Family-Income-and-Expenditure/blob/main/images/8.2.png)
-9. It can be observed that the bar graph ranging from ages 9-99 forms a bell curve.
+9. It can be observed that the bar graph ranging from ages 9-99 forms a bell curve, with a mean age of 51.
 ![head age PH](https://github.com/johanncatalla/Data-Analysis-on-Filipino-Family-Income-and-Expenditure/blob/main/images/9.png)
-10. The meand age is 51.381450991719625
+10. The mean age is 51.381450991719625
 11. It can be concluded that ARMM has the highest Total Income from Entrepreneurial Activities while Bicol Region has the lowest. 
 ![entrepreneurial activities region](https://github.com/johanncatalla/Data-Analysis-on-Filipino-Family-Income-and-Expenditure/blob/main/images/11.png)
 12. The heatmap plots the correlation between the variables of Expenses together with the Total Household Income and Food Percentage to Income. It can be observed that Ratio of Food Expenditure to Income and Total Household Income has a moderately strong negative correlation (0.44), which confirmed our findings earlier. Furthermore, Total Food Expenditure and Total Household Income has a strong positive correlation (0.66) which also confirmed our findings. The following conclusions can be made:
